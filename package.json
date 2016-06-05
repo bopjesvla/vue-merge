@@ -1,0 +1,72 @@
+{
+  "_args": [
+    [
+      "vue-merge",
+      "/Users/user/misc/slaptcha-vue"
+    ]
+  ],
+  "_from": "vue-merge@latest",
+  "_id": "vue-merge@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/vue-merge",
+  "_nodeVersion": "6.1.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/vue-merge-1.0.0.tgz_1463670892515_0.42220378923229873"
+  },
+  "_npmUser": {
+    "email": "negenentwintig@hotmail.com",
+    "name": "bopjesvla"
+  },
+  "_npmVersion": "3.9.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "vue-merge",
+    "raw": "vue-merge",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-merge/-/vue-merge-1.0.0.tgz",
+  "_shasum": "22e7ffb336f70e47d7a6918c5b8140138d79197d",
+  "_shrinkwrap": null,
+  "_spec": "vue-merge",
+  "_where": "/Users/user/misc/slaptcha-vue",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/bopjesvla/vue-merge/issues"
+  },
+  "dependencies": {},
+  "description": "MERGE",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "22e7ffb336f70e47d7a6918c5b8140138d79197d",
+    "tarball": "https://registry.npmjs.org/vue-merge/-/vue-merge-1.0.0.tgz"
+  },
+  "homepage": "https://github.com/bopjesvla/vue-merge#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "negenentwintig@hotmail.com",
+      "name": "bopjesvla"
+    }
+  ],
+  "name": "vue-merge",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bopjesvla/vue-merge.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
